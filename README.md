@@ -43,4 +43,5 @@ sentiment-app/
 | Rôle     | Nom                    | Identifiant GitHub | Travail de la semaine 1                                               |
 | -------- | ---------------------- | ------------------ | --------------------------------------------------------------------- |
 | Membre A | Othmane TOUITAT KABBAJ | @othmanekt0        | Création du dépôt, cadrage des 3 cas, installation de l'environnement |
-| Membre B | BARRA Mohammed | @mohammedbarra2005-arch | Installation de l'environnement, vérification des tests |               | [@login]           |                                                                       |
+| Membre B | BARRA Mohammed | @mohammedbarra2005-arch | Installation de l'environnement, vérification des tests
+| Membre C | NAHHAL ABDERRAHMANE | @AbderrahmaneNahhal | Installation de l'environnement, vérification des tests |                [@login]                                                                                  
