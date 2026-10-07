@@ -1,6 +1,6 @@
 # sentiment-app : dépôt du binôme
 
-Application fil rouge du cours *Développement et déploiement d'applications intelligentes*.
+Application fil rouge du cours _Développement et déploiement d'applications intelligentes_.
 Ce dépôt grandit chaque semaine ; la semaine 1 met en place le cadrage et l'environnement.
 
 ## Installation (3 commandes)
@@ -40,7 +40,7 @@ sentiment-app/
 
 ## Membres du binôme
 
-| Rôle | Nom | Identifiant GitHub | Travail de la semaine 1 |
-| --- | --- | --- | --- |
-| Membre A | Othmane TOUITAT KABBAJ Othmane | @othmanekt0 | Création du dépôt, cadrage des 3 cas, installation de l'environnement |
-| Membre B | [Nom 2] | [@login] | |
+| Rôle     | Nom                    | Identifiant GitHub | Travail de la semaine 1                                               |
+| -------- | ---------------------- | ------------------ | --------------------------------------------------------------------- |
+| Membre A | Othmane TOUITAT KABBAJ | @othmanekt0        | Création du dépôt, cadrage des 3 cas, installation de l'environnement |
+| Membre B | [Nom 2]                | [@login]           |                                                                       |
