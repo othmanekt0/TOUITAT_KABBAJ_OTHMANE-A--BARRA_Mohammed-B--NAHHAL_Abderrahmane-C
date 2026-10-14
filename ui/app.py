@@ -88,7 +88,7 @@ with onglet_aide:
 agent de reprendre la main, comme prévu dans la fiche de cadrage du cas 3.
 
 **Ce que l'interface n'est pas.** Une démonstration, pas l'application. Elle sert à montrer le
-modèle, à récolter des retours et à faire apparaître les cas où il se trompe. L'API, elle, sera
+modèle, à récolter des retours et à faire apparaître les cas où il se trompe. L'API, sera
 appelée par d'autres programmes.
         """
     )
